@@ -1,0 +1,11 @@
+{
+  "name": "pogorocraidreporter",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Alexander Shuey",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-mix": "^5.0.4",
+    "webpack": "^4.44.1"
+  }
+}
