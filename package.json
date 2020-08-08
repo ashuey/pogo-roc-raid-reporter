@@ -1,11 +1,37 @@
 {
-  "name": "pogorocraidreporter",
+  "name": "pogo-roc-raid-reporter",
   "version": "1.0.0",
+  "private": true,
   "description": "",
-  "author": "Alexander Shuey",
-  "license": "MIT",
+  "author": {
+    "name": "Alexander Shuey"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve --port 8081",
+    "build": "vue-cli-service build"
+  },
   "dependencies": {
-    "laravel-mix": "^5.0.4",
-    "webpack": "^4.44.1"
-  }
+    "@types/js-cookie": "^2.2.6",
+    "@types/jsonwebtoken": "^8.5.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.1",
+    "bootstrap-vue": "^2.16.0",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "query-string": "^6.13.1",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^8.4.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "typescript": "~3.9.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "_id": "pogorocraidreporter@1.0.0",
+  "license": "MIT",
+  "readme": "ERROR: No README data found!"
 }
