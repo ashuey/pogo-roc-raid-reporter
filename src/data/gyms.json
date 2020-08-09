@@ -60,11 +60,6 @@
     "lon": "-77.655984"
   },
   {
-    "name": "Sprint Henrietta",
-    "lat": "43.08633",
-    "lon": "-77.6266697"
-  },
-  {
     "name": "Veterans Memorial Park",
     "lat": "43.068341",
     "lon": "-77.620076"
@@ -73,5 +68,20 @@
     "name": "MacGregor's Grill and Tap Room",
     "lat": "43.092251",
     "lon": "-77.650489"
+  },
+  {
+    "name": "The Painted Rock at RIT",
+    "lat": "43.084094",
+    "lon": "-77.672857"
+  },
+  {
+    "name": "Radison Gazebo",
+    "lat": "43.0916600",
+    "lon": "-77.6644720"
+  },
+  {
+    "name": "The Province Archway",
+    "lat": "43.0864240",
+    "lon": "-77.6557840"
   }
 ]
